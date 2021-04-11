@@ -1,12 +1,13 @@
 import React  from 'react'
 
-import State from "./examples/state";
+import Effect from "./examples/effect";
 
 function App() {
 
   return (
       <>
-        <State/>
+        {/*<State/>*/}
+        <Effect />
       </>
   );
 }
